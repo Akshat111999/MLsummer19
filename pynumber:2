@@ -1,0 +1,4 @@
+import numpy as np
+z=np.random.randint(100,200,size=(8,2) )
+z
+# if with differnce/gap of 5 then attribut in randint will be -----randint(100,180,size=())
